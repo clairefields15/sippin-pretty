@@ -1,0 +1,11 @@
+header {
+  background-color: crimson;
+  width: 100vw;
+  display: flex;
+  justify-content: space-between;
+  height: 5em;
+  position: sticky;
+  z-index: 1;
+  padding: 1em;
+  box-sizing: border-box;
+}
